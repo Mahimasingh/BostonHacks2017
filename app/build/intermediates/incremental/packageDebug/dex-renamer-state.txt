@@ -1,0 +1,7 @@
+#Sun Oct 29 01:06:52 EDT 2017
+base.0=/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21583aa07f06ae4e32712b4d405e06efb897fdaf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c1f01ad1f95be51ca84b728dfd71a9ff0a52c043/classes.dex
+base.1=/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c1f01ad1f95be51ca84b728dfd71a9ff0a52c043
+file.0=/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21583aa07f06ae4e32712b4d405e06efb897fdaf/classes.dex

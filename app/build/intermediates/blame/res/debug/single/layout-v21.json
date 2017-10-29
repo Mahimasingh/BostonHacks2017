@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/activity_main3__doctor.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/activity_main3__doctor.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/content_main4_activity_patient_info.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/content_main4_activity_patient_info.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/healthfiles.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/healthfiles.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/content_main3_activity__doctor.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/content_main3_activity__doctor.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/toastmessage.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/toastmessage.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/activity_main4_patient_info.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/activity_main4_patient_info.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/inflatedview_doctor.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/inflatedview_doctor.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/content_main2.xml",
+        "source": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/src/main/res/layout/content_main2.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/sohyl/.android/build-cache/0bf3e1e9ca660a09e28e91d5a0baa35c4cdcae94/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout/notification_template_part_time.xml"
+    }
+]

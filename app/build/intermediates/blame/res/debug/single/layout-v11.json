@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/sohyl/.android/build-cache/036bc9a32dff87a84bd3ad12455362d81aef67e5/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]
