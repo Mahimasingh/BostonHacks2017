@@ -8,24 +8,6 @@ There have been attempts to digitize medical records and other similar sensitive
 # The Solution & Medifi
 Web 3.0 has brought with it a potential solution for the problem detailed above. Medifi's solution has leveraged these emerging technologies to create an end-to-end decentralized file sharing network. This means there is no longer a single point of failure for hackers to exploit. The data itself is secured using SHA256 in a Merkel DAG data structure and users can access the data using the hashes of the SHA256 encryption traced with the help of the Ethereum Blockchain and smart contracts. This means that data can be added and viewed with ease and be stored completely securely. Which means that you will no longer have to wait thirty days to access your own medical records and sharing your medical records with trusted sources will be easier and more secure than ever before.
 
-# Misc.
-
-### What is DApp?
-Take it from the top answer on stackoverflow:
-
-> DApp is an abbreviated form for decentralized application.
-
-> A DApp has its backend code running on a decentralized peer-to-peer network. Contrast this with an app where the backend code is running on centralized servers.
-
-> A DApp can have frontend code and user interfaces written in any language (just like an app) that can make calls to its backend. Furthermore, its frontend can be hosted on decentralized storage such as Swarm or IPFS.
-
-> If an app=frontend+server, since Ethereum contracts are code that runs on the global Ethereum decentralized peer-to-peer network, then:
-
-> DApp = frontend + contracts
-
-## What is Ethereum?
-[Check out the Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
-
 # Installation and Requirements
 
 1. An android mobile
@@ -49,3 +31,22 @@ OpenShift - planning on it.
 - Mahima
 - Kim
 - So Hyeong Lee
+
+# Misc.
+
+### What is DApp?
+Take it from the top answer on stackoverflow:
+
+> DApp is an abbreviated form for decentralized application.
+
+> A DApp has its backend code running on a decentralized peer-to-peer network. Contrast this with an app where the backend code is running on centralized servers.
+
+> A DApp can have frontend code and user interfaces written in any language (just like an app) that can make calls to its backend. Furthermore, its frontend can be hosted on decentralized storage such as Swarm or IPFS.
+
+> If an app=frontend+server, since Ethereum contracts are code that runs on the global Ethereum decentralized peer-to-peer network, then:
+
+> DApp = frontend + contracts
+
+## What is Ethereum?
+[Check out the Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+
