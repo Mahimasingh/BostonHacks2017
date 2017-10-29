@@ -6,7 +6,7 @@ In the United States, accessing one's own medical records can be a timely and fr
 There have been attempts to digitize medical records and other similar sensitive data using traditional Web 1.0 and Web 2.0 technologies, but these have fallen short. For example, there have been [cases](http://medicaleconomics.modernmedicine.com/medical-economics/news/yes-staff-snooping-medical-records-privacy-breach) of staff abusing their adminstrational access to patient records. Traditional databases continue to be the subject of hacks as we have recently seen with the Equifax hack and the ransomware attacks plaguing unsecure databases. With a database acting as a single point of failure it seems this problem cannot be resolved unless a nontraditional approach to data storage is explored.
 
 # The Solution & Medifi
-Web 3.0 has brought with it a potential solution for the problem detailed above. Medifi's solution has leverged these emerging technologies to create an end-to-end decentralized file sharing network. This means there is no longer a single point of failure for hackers to exploit. The data itself is secured using SHA256 in a Merkel DAG data structure and users can access the data using the hashes of the SHA256 encryption traced with the help of the Ethereum Blockchain and smart contracts. This means that data can be added and viewed with ease and be stored completely securely. Which means that you will no longer have to wait thirty days to access your own medical records and sharing your medical records with trusted sources will be easier and more secure than ever before.
+Web 3.0 has brought with it a potential solution for the problem detailed above. Medifi's solution has leveraged these emerging technologies to create an end-to-end decentralized file sharing network. This means there is no longer a single point of failure for hackers to exploit. The data itself is secured using SHA256 in a Merkel DAG data structure and users can access the data using the hashes of the SHA256 encryption traced with the help of the Ethereum Blockchain and smart contracts. This means that data can be added and viewed with ease and be stored completely securely. Which means that you will no longer have to wait thirty days to access your own medical records and sharing your medical records with trusted sources will be easier and more secure than ever before.
 
 # Misc.
 
@@ -39,7 +39,7 @@ Take it from the top answer on stackoverflow:
 4. [Solidity](https://github.com/ethereum/solidity)
 5. [Web3JS](https://github.com/ethereum/web3.js/)
 
-# Deployement Framework
+# Deployment Framework
 
 OpenShift - planning on it.
 
