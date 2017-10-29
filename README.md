@@ -18,7 +18,7 @@ OpenShift
 
 # Collaborators
 
-Devin 
-Mahima
-Kim
-So Hyeong Lee
+1. Devin 
+2. Mahima
+3. Kim
+4. So Hyeong Lee
