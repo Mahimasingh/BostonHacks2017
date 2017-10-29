@@ -8,7 +8,7 @@ There have been attempts to digitize medical records and other similar sensitive
 # The Solution & Medifi
 Web 3.0 has brought with it a potential solution for the problem detailed above. Medifi's solution has leverged these emerging technologies to create an end-to-end decentralized file sharing network. This means there is no longer a single point of failure for hackers to exploit. The data itself is secured using SHA256 in a Merkel DAG data structure and users can access the data using the hashes of the SHA256 encryption traced with the help of the Ethereum Blockchain and smart contracts. This means that data can be added and viewed with ease and be stored completely securely.
 
-
+# Misc.
 
 # Installation and Requirements
 
@@ -29,7 +29,7 @@ OpenShift
 
 # Collaborators
 
-1. Devin 
+1. Devin de Hueck
 2. Mahima
 3. Kim
 4. So Hyeong Lee
