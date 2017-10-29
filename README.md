@@ -28,9 +28,10 @@ OpenShift - planning on it.
 # Collaborators
 
 - Devin de Hueck
-- Mahima
-- Kim
+- Mahima Singh
+- Kim Baum
 - So Hyeong Lee
+- Brandon Mac
 
 # Misc.
 
