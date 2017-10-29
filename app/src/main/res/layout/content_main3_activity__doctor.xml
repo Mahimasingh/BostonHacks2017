@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="thesohyproject.bostonhacksdraft2.Main3Activity_Doctor"
+    tools:showIn="@layout/activity_main3__doctor"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List of Patients"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+        
+        <LinearLayout
+            android:id="@+id/listContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        </LinearLayout>
+    </ScrollView>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:onClick="onClickHash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="hash false"
+            />
+        <Button
+            android:onClick="onClickInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="patient info"
+            />
+
+
+    </LinearLayout>
+    
+
+</LinearLayout>

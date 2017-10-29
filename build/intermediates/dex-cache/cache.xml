@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a95aafa069939068e086bba87aa8cf7fe0c5895e">
+        <dex dex="/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c1f01ad1f95be51ca84b728dfd71a9ff0a52c043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sohyl/AndroidStudioProjects/BostonHacksDraft2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_21583aa07f06ae4e32712b4d405e06efb897fdaf/classes.dex" />
+    </item>
+
+</items>
