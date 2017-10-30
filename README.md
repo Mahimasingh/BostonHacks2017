@@ -1,5 +1,7 @@
 # Medifi: An end-to-end encrypted decentralized file sharing network for the secure transfer and easy use of medical records
-Medifi is a Web and Android decentralized application (DApp) to share Medical Documents securely via NFC. It can potentially store any medical records securely. The medical documents are uploaded by your doctor or other medical professional who is already trusted by the user. On a high level, this application can be used to share sensitive medical documents in a secure and accessible way. The target audience includes anyone who needs ready access to their personal medical records. 
+Medifi is a Web and Android decentralized application (DApp) to share Medical Documents securely via NFC. It can potentially store any medical records securely. The medical documents are uploaded by your doctor or other medical professional who is already trusted by the user. On a high level, this application can be used to share sensitive medical documents in a secure and accessible way. The target audience includes anyone who needs ready access to their personal medical records.
+
+[Demo Video](https://youtu.be/UZYsvTh0VKU)
 
 # The Problem
 In the United States, accessing one's own medical records can be a timely and frustrating process. It can take 30 days to gain access to medical records and often the request for access is denied [improperly](https://health.usnews.com/health-news/patient-advice/articles/2014/06/05/how-to-get-access-to-your-hospital-records). Even if access is gained it can be unreasonable to search through and manage the thick stack of papers. This is a process known for its incredibly inefficient and cumbersome process - there is clearly much room for improvement.
